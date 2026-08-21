@@ -2,6 +2,12 @@
 
 A word add-in to convert arabic numeral into geez numbers. 
 
+## Android app
+
+The publishable, dependency-free Android version lives in [`android-app/`](android-app/README.md).
+It is an independent implementation of the W3C Ethiopic numeric algorithm; it does not reuse the
+Word add-in conversion source.
+
 # Usage 
 install node.js and related materials, follow [this](https://phoenixnap.com/kb/install-node-js-npm-on-windows) tutorial. 
 

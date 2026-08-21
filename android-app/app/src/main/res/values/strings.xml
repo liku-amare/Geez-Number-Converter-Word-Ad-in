@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ge’ez Numerals</string>
+    <string name="subtitle">Convert positive decimal numbers to traditional Ethiopic numerals. Everything stays on your device.</string>
+    <string name="input_label">Decimal number</string>
+    <string name="input_hint">For example, 2345</string>
+    <string name="convert">Convert</string>
+    <string name="result_label">Ethiopic numeral</string>
+    <string name="empty_result">—</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="zero_note">Traditional Ethiopic numerals represent positive numbers and have no zero.</string>
+    <string name="about_and_privacy_button">About &amp; privacy</string>
+    <string name="about_title">About Ge’ez Numerals</string>
+    <string name="about_and_privacy">Ge’ez Numerals is an offline utility for converting positive decimal numbers to traditional Ethiopic numerals.\n\nPrivacy: This app does not collect, store, transmit, or share personal data. It contains no advertising, analytics, accounts, or network access. Numbers you enter remain on your device.\n\nThe conversion follows the Unicode Ethiopic numeral characters and the W3C ethiopic-numeric algorithm.</string>
+    <string name="clipboard_label">Ethiopic numeral</string>
+    <string name="copied">Copied</string>
+    <string name="convert_before_copying">Convert a number first.</string>
+</resources>
